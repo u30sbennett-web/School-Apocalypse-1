@@ -37,7 +37,6 @@
     {"name":"sprite_walk","order":6,"path":"sprites/sprite_walk/sprite_walk.yy",},
     {"name":"Sprite22","order":2,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite23","order":3,"path":"sprites/Sprite23/Sprite23.yy",},
-    {"name":"Sprite24","order":4,"path":"sprites/Sprite24/Sprite24.yy",},
     {"name":"Sprite25","order":5,"path":"sprites/Sprite25/Sprite25.yy",},
     {"name":"TileSet1","order":19,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
