@@ -5,6 +5,7 @@
     {"name":"Turn Based Battle","order":17,"path":"folders/Sprites/Turn Based Battle.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"MC_1","order":8,"path":"objects/MC_1/MC_1.yy",},
     {"name":"obj_attack","order":22,"path":"objects/obj_attack/obj_attack.yy",},
     {"name":"obj_dialog","order":25,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"obj_enemy_1","order":21,"path":"objects/obj_enemy_1/obj_enemy_1.yy",},
@@ -34,10 +35,12 @@
     {"name":"spr_slash","order":14,"path":"sprites/spr_slash/spr_slash.yy",},
     {"name":"spr_talk","order":12,"path":"sprites/spr_talk/spr_talk.yy",},
     {"name":"spr_tileset","order":3,"path":"sprites/spr_tileset/spr_tileset.yy",},
+    {"name":"spr_tileset2","order":30,"path":"sprites/spr_tileset2/spr_tileset2.yy",},
     {"name":"sprite_walk","order":6,"path":"sprites/sprite_walk/sprite_walk.yy",},
     {"name":"Sprite22","order":2,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite23","order":3,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"Sprite25","order":5,"path":"sprites/Sprite25/Sprite25.yy",},
     {"name":"TileSet1","order":19,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"tileset2","order":31,"path":"tilesets/tileset2/tileset2.yy",},
   ],
 }
