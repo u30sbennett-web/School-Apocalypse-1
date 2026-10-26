@@ -5,6 +5,7 @@
     {"name":"Turn Based Battle","order":17,"path":"folders/Sprites/Turn Based Battle.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"MC_1","order":9,"path":"objects/MC_1/MC_1.yy",},
     {"name":"obj_attack","order":22,"path":"objects/obj_attack/obj_attack.yy",},
     {"name":"obj_dialog","order":25,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"obj_enemy_1","order":21,"path":"objects/obj_enemy_1/obj_enemy_1.yy",},
@@ -14,7 +15,12 @@
     {"name":"obj_npc1","order":28,"path":"objects/obj_npc1/obj_npc1.yy",},
     {"name":"obj_npc2","order":29,"path":"objects/obj_npc2/obj_npc2.yy",},
     {"name":"obj_player","order":18,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"Object11","order":10,"path":"objects/Object11/Object11.yy",},
+    {"name":"Room2","order":11,"path":"rooms/Room2/Room2.yy",},
     {"name":"Drawing","order":1,"path":"scripts/Drawing/Drawing.yy",},
+    {"name":"girlsprite","order":8,"path":"sprites/girlsprite/girlsprite.yy",},
+    {"name":"MC_1_front_idle","order":5,"path":"sprites/MC_1_front_idle/MC_1_front_idle.yy",},
+    {"name":"MC_1_side_idle","order":7,"path":"sprites/MC_1_side_idle/MC_1_side_idle.yy",},
     {"name":"spr_battle_screen","order":1,"path":"sprites/spr_battle_screen/spr_battle_screen.yy",},
     {"name":"spr_box","order":1,"path":"sprites/spr_box/spr_box.yy",},
     {"name":"spr_button_light","order":3,"path":"sprites/spr_button_light/spr_button_light.yy",},
@@ -37,7 +43,6 @@
     {"name":"sprite_walk","order":6,"path":"sprites/sprite_walk/sprite_walk.yy",},
     {"name":"Sprite22","order":2,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite23","order":3,"path":"sprites/Sprite23/Sprite23.yy",},
-    {"name":"Sprite25","order":5,"path":"sprites/Sprite25/Sprite25.yy",},
     {"name":"TileSet1","order":19,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
 }
