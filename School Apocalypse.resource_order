@@ -42,6 +42,7 @@
     {"name":"spr_shadow","order":11,"path":"sprites/spr_shadow/spr_shadow.yy",},
     {"name":"spr_slash","order":14,"path":"sprites/spr_slash/spr_slash.yy",},
     {"name":"spr_talk","order":12,"path":"sprites/spr_talk/spr_talk.yy",},
+    {"name":"spr_tileset_2","order":15,"path":"sprites/spr_tileset_2/spr_tileset_2.yy",},
     {"name":"spr_tileset","order":3,"path":"sprites/spr_tileset/spr_tileset.yy",},
     {"name":"sprite_walk","order":6,"path":"sprites/sprite_walk/sprite_walk.yy",},
     {"name":"Sprite22","order":2,"path":"sprites/Sprite22/Sprite22.yy",},
