@@ -28,8 +28,13 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< HEAD
     "name":"MC_1_front_idle",
     "path":"sprites/MC_1_front_idle/MC_1_front_idle.yy",
+=======
+    "name":"Sprite25",
+    "path":"sprites/Sprite25/Sprite25.yy",
+>>>>>>> 04db0c6780ec3f718fb80658e278b3c2e2e5b482
   },
   "spriteMaskId":null,
   "visible":true,

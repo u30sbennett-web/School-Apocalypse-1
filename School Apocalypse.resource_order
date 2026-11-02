@@ -5,7 +5,11 @@
     {"name":"Turn Based Battle","order":17,"path":"folders/Sprites/Turn Based Battle.yy",},
   ],
   "ResourceOrderSettings":[
+<<<<<<< HEAD
     {"name":"MC_1","order":9,"path":"objects/MC_1/MC_1.yy",},
+=======
+    {"name":"MC_1","order":8,"path":"objects/MC_1/MC_1.yy",},
+>>>>>>> 04db0c6780ec3f718fb80658e278b3c2e2e5b482
     {"name":"obj_attack","order":22,"path":"objects/obj_attack/obj_attack.yy",},
     {"name":"obj_dialog","order":25,"path":"objects/obj_dialog/obj_dialog.yy",},
     {"name":"obj_enemy_1","order":21,"path":"objects/obj_enemy_1/obj_enemy_1.yy",},
@@ -20,34 +24,30 @@
     {"name":"Object13","order":14,"path":"objects/Object13/Object13.yy",},
     {"name":"Room2","order":11,"path":"rooms/Room2/Room2.yy",},
     {"name":"Drawing","order":1,"path":"scripts/Drawing/Drawing.yy",},
+<<<<<<< HEAD
     {"name":"MC_1_front_idle","order":5,"path":"sprites/MC_1_front_idle/MC_1_front_idle.yy",},
     {"name":"MC_1_side_idle","order":7,"path":"sprites/MC_1_side_idle/MC_1_side_idle.yy",},
     {"name":"MC_2_front_idle","order":12,"path":"sprites/MC_2_front_idle/MC_2_front_idle.yy",},
     {"name":"MC_2_side_idle","order":8,"path":"sprites/MC_2_side_idle/MC_2_side_idle.yy",},
+=======
+    {"name":"milk","order":32,"path":"sprites/milk/milk.yy",},
+>>>>>>> 04db0c6780ec3f718fb80658e278b3c2e2e5b482
     {"name":"spr_battle_screen","order":1,"path":"sprites/spr_battle_screen/spr_battle_screen.yy",},
     {"name":"spr_box","order":1,"path":"sprites/spr_box/spr_box.yy",},
     {"name":"spr_button_light","order":3,"path":"sprites/spr_button_light/spr_button_light.yy",},
     {"name":"spr_button_run","order":2,"path":"sprites/spr_button_run/spr_button_run.yy",},
-    {"name":"spr_enemy2","order":4,"path":"sprites/spr_enemy2/spr_enemy2.yy",},
     {"name":"spr_lava","order":13,"path":"sprites/spr_lava/spr_lava.yy",},
-    {"name":"spr_npc1","order":5,"path":"sprites/spr_npc1/spr_npc1.yy",},
-    {"name":"spr_player_idle_down","order":7,"path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},
-    {"name":"spr_player_idle_left","order":16,"path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},
-    {"name":"spr_player_idle_right","order":2,"path":"sprites/spr_player_idle_right/spr_player_idle_right.yy",},
-    {"name":"spr_player_idle_up","order":9,"path":"sprites/spr_player_idle_up/spr_player_idle_up.yy",},
-    {"name":"spr_player_walk_down","order":8,"path":"sprites/spr_player_walk_down/spr_player_walk_down.yy",},
-    {"name":"spr_player_walk_left","order":6,"path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},
-    {"name":"spr_player_walk_right","order":10,"path":"sprites/spr_player_walk_right/spr_player_walk_right.yy",},
-    {"name":"spr_player_walk_up","order":15,"path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},
     {"name":"spr_shadow","order":11,"path":"sprites/spr_shadow/spr_shadow.yy",},
     {"name":"spr_slash","order":14,"path":"sprites/spr_slash/spr_slash.yy",},
     {"name":"spr_talk","order":12,"path":"sprites/spr_talk/spr_talk.yy",},
     {"name":"spr_tileset_2","order":15,"path":"sprites/spr_tileset_2/spr_tileset_2.yy",},
     {"name":"spr_tileset","order":3,"path":"sprites/spr_tileset/spr_tileset.yy",},
+    {"name":"spr_tileset2","order":30,"path":"sprites/spr_tileset2/spr_tileset2.yy",},
     {"name":"sprite_walk","order":6,"path":"sprites/sprite_walk/sprite_walk.yy",},
     {"name":"Sprite22","order":2,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite23","order":3,"path":"sprites/Sprite23/Sprite23.yy",},
     {"name":"tile_set_2","order":16,"path":"tilesets/tile_set_2/tile_set_2.yy",},
     {"name":"TileSet1","order":19,"path":"tilesets/TileSet1/TileSet1.yy",},
+    {"name":"tileset2","order":31,"path":"tilesets/tileset2/tileset2.yy",},
   ],
 }
